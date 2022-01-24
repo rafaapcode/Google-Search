@@ -8,6 +8,6 @@ https://user-images.githubusercontent.com/83471941/150839947-73248b94-eb16-408a-
 ### Sobre o projeto 
 - Projeto feito com o intuito de recriar a página de buscas do Google.
 
-###Tecnologia Usadas:
+### Tecnologia Usadas:
 - HTML5
 - CSS3
